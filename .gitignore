@@ -1,0 +1,19 @@
+# Salesforce CLI local settings
+.sfdx/
+.sf/
+.vscode/
+*.log
+
+# Node.js (if used)
+node_modules/
+
+# Test coverage and results
+coverage/
+test-results/
+
+# Mac / system files
+.DS_Store
+
+# Env vars
+.env
+.env.*
